@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    font-family: 'Karla', sans-serif;
+    
+
+}
+
+.container {
+    display: flex;
+    background-color: #23252C;
+    width: 500px;
+    height: 800px;
+    border-radius: 10px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    
+
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1A1B21;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: -2px 3px 22px -8px rgba(0,0,0,0.75);
+    
+}
+
+
+
+.banner-img {
+    height: 350px;
+    width: 300px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+
+
+
+.info {
+    display: flex;
+    padding-top: 16px;
+    justify-content: column;
+    text-align: center;
+    padding-bottom: 8px;
+    
+    
+}
+.info-div {
+   color: white;
+   line-height: 1.6;
+   padding-bottom: 8px;
+}
+
+.job-title {
+    color: #F3BF99;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  text-align: center;
+  height: 34px;
+  border-radius: 10px;
+  margin-top: 12px;
+  padding: 0 10px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.email-button {
+    font-size: 12px;
+}
+.button a {
+  text-decoration: none;
+  color: black;
+  margin-left: 5px;
+}
+
+
+.button:hover {
+  background-color: black;
+}
+
+.button:hover a {
+  color: white;
+}
+
+.fa-envelope {
+  display: flex;
+  font-size: 16px;
+  color: black;
+ 
+}
+
+.button:hover .fa-envelope {
+  color: white;
+}
+.about-div{
+    padding-left: 24px;
+    padding-bottom: 24px;
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+
+}
+
+
+.interests-div{
+    padding-left: 24px;
+    padding-bottom: 40px;
+    color: white;
+    font-size: 10px;
+    
+    
+}
+
+.title {
+    padding-bottom: 8px;
+}
+
+.footer {
+    display: flex;
+    background-color: #161619;
+    width: 300px;
+    height: 64px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    
+}
+
+.fa-square-github {
+    font-size: 32px;
+    color: #F3BF99;
+}
+
+.fa-linkedin {
+    font-size: 32px;
+    color: #F3BF99;
+}
+
+.fa-square-instagram {
+    font-size: 32px;
+    color: #F3BF99;
+}
+
+
+.fa-square-github:hover,
+.fa-linkedin:hover,
+.fa-square-instagram:hover {
+  color: white;
+}
