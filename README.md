@@ -1,4 +1,8 @@
-# co3e34da6aad0bc9239fbe599
+Digital Business Card using React 
+
+https://meek-heliotrope-181184.netlify.app/
+
+<img width="218" alt="Screenshot 2023-04-12 at 16 49 18" src="https://user-images.githubusercontent.com/92725771/231512747-c6528996-f09a-4c4d-b169-9182d5695a40.png">
 
 Quick start:
 
@@ -15,14 +19,4 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 $ yarn watch # npm run watch
 ```
 
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
